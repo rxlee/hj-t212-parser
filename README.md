@@ -25,16 +25,18 @@
 
 通过gradle引入托管在jitpack上的jar包
 
-```groovy
-repositories {
-    maven{
-        url 'https://jitpack.io'
-    }
-}
-dependencies {
-    compile 'com.github.xiaoyao9184.hj-t212-parser:hj-t212-parser:master-SNAPSHOT'
-    compile 'com.github.xiaoyao9184.hj-t212-parser:hj-t212-translator:master-SNAPSHOT'
-}
+```maven
+		<dependency>
+			<groupId>com.github.xiaoyao9184</groupId>
+			<artifactId>hj-t212-parser</artifactId>
+			<version>0.1-SNAPSHOT</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.github.xiaoyao9184</groupId>
+			<artifactId>hj-t212-translator</artifactId>
+			<version>0.1-SNAPSHOT</version>
+		</dependency>
 ```
 
 通过创建`T212Mapper`对象，获得读取、写入T212信息的功能
