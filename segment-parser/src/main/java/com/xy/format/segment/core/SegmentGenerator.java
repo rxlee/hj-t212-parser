@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 import static com.xy.format.segment.core.SegmentToken.*;
 
 /**
- * Created by xiaoyao9184 on 2018/2/24.
+ *
  */
 public class SegmentGenerator
         implements Closeable, Configured<SegmentGenerator> {

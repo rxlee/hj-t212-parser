@@ -10,7 +10,6 @@ import com.xy.format.hbt212.model.standard.Data;
  * 反序列化
  * 解决Map转为
  * @see Data 时剔除的字段
- * Created by xiaoyao9184 on 2017/12/19.
  */
 @JsonIgnoreProperties(value={ "Flag","CP" }, allowGetters=true)
 public abstract class DataDeserializationMixin {

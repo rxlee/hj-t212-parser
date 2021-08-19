@@ -33,7 +33,7 @@ import static com.xy.format.hbt212.core.validator.clazz.FieldValidator.create_fo
 
 /**
  * 数据段 级别 反序列化器
- * Created by xiaoyao9184 on 2017/12/15.
+ *
  */
 public class DataLevelMapDeserializer
         implements T212Deserializer<Map<String,String>>, Configured<DataLevelMapDeserializer> {

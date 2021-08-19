@@ -9,7 +9,6 @@ import java.util.function.Predicate;
 import java.util.regex.Pattern;
 
 /**
- * Created by xiaoyao9184 on 2018/1/22.
  */
 public abstract class FieldRegexSupportedValidator<A extends Annotation,AF extends Annotation>
         extends FieldValidator<A,T212Map<String,?>,AF,String> {

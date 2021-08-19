@@ -18,7 +18,6 @@ import java.util.stream.Stream;
  * 转换器
  * 将T212Map转为
  * @see Data
- * Created by xiaoyao9184 on 2017/12/15.
  */
 public class DataConverter
         implements Converter<T212Map<String,Object>,Data>,

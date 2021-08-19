@@ -6,9 +6,6 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * Created by xiaoyao9184 on 2018/1/10.
- */
 public class ValidDateValidator implements ConstraintValidator<ValidDate, String> {
 
     private String format;

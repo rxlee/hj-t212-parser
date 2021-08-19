@@ -5,7 +5,6 @@ import java.io.PushbackReader;
 
 /**
  * 字符流解析器
- * Created by xiaoyao9184 on 2018/1/3.
  */
 public abstract class PushBackReaderParser<Target>
         implements Parser<Target> {

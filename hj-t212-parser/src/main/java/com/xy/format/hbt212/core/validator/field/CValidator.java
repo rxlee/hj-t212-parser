@@ -4,7 +4,6 @@ import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;
 
 /**
- * Created by xiaoyao9184 on 2018/1/10.
  */
 public class CValidator implements ConstraintValidator<C, String> {
 

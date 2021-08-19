@@ -4,7 +4,7 @@ import com.xy.format.hbt212.CodeMean;
 
 /**
  * ?? http://www.mep.gov.cn/image20010518/1967.pdf
- * Created by xiaoyao9184 on 2017/12/30.
+ *
  */
 public enum GBT16706 implements CodeMean {
 

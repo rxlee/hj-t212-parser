@@ -12,9 +12,6 @@ import java.io.StringReader;
 import static org.junit.Assert.*;
 import static org.junit.Assert.assertEquals;
 
-/**
- * Created by xiaoyao9184 on 2017/12/19.
- */
 public class T212ParserTest {
 
     @Test

@@ -4,7 +4,6 @@ import com.xy.format.hbt212.model.standard.DataFlag;
 
 /**
  * 验证组
- * Created by xiaoyao9184 on 2020/11/25.
  */
 public interface Group {
 
@@ -16,7 +15,6 @@ public interface Group {
     /**
      * 版本 验证组
      * @see DataFlag#V0
-     * Created by xiaoyao9184 on 2018/1/10.
      */
     interface Version {
 

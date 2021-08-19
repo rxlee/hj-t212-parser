@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.Map;
 
 /**
- * Created by xiaoyao9184 on 2018/2/25.
+ *
  */
 public class MapSegmentSerializer
         implements SegmentSerializer<Map<String,Object>> {

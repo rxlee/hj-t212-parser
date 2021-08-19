@@ -7,7 +7,7 @@ import java.util.Collection;
 
 /**
  * 数据段 标志
- * Created by xiaoyao9184 on 2017/12/15.
+ *
  */
 @ApiModel
 public enum DataFlag {

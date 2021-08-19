@@ -14,7 +14,6 @@ import static com.xy.format.hbt212.core.feature.ParserFeature.HEADER_CONSTANT;
 
 /**
  * T212通信包解析器
- * Created by xiaoyao9184 on 2017/12/15.
  */
 public class T212Parser
         implements Configured<T212Parser>, Closeable {

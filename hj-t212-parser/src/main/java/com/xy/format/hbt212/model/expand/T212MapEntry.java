@@ -11,7 +11,6 @@ import javax.validation.constraints.*;
 /**
  * T212 Map
  * 解决无法对MAP进行验证定义问题
- * Created by xiaoyao9184 on 2018/1/10.
  */
 public class T212MapEntry {
 

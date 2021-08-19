@@ -17,9 +17,6 @@ import java.util.concurrent.atomic.AtomicReference;
 import static com.xy.format.segment.core.feature.SegmentParserFeature.*;
 import static com.xy.format.segment.core.SegmentToken.*;
 
-/**
- * Created by xiaoyao9184 on 2018/1/3.
- */
 public class SegmentParser
         implements Closeable, Configured<SegmentParser> {
 

@@ -4,7 +4,6 @@ import com.xy.format.hbt212.model.verify.groups.GroupCommon;
 
 /**
  * 数据段 元素
- * Created by xiaoyao9184 on 2017/12/19.
  */
 public enum DataElement {
     QN(GroupCommon.YYYYMMDDhhmmsszzz.class),

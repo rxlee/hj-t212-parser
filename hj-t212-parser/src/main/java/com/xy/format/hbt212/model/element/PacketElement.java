@@ -2,7 +2,6 @@ package com.xy.format.hbt212.model.element;
 
 /**
  * 通信包
- * Created by xiaoyao9184 on 2017/12/19.
  */
 public enum PacketElement {
     HEADER(2),

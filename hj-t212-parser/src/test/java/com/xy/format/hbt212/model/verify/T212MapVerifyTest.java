@@ -21,9 +21,6 @@ import java.util.stream.Collectors;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
-/**
- * Created by xiaoyao9184 on 2018/1/11.
- */
 public class T212MapVerifyTest {
 
     public T212Map<String,String> dataLevel;

@@ -10,7 +10,6 @@ import java.util.Map;
 /**
  * CPData Map 系列化
  * 其中可能包含PartEntity
- * Created by xiaoyao9184 on 2018/2/25.
  */
 public class T212CpMapPathValueSegmentSerializer
         implements SegmentSerializer<Object> {

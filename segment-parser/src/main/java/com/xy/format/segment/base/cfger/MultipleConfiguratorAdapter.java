@@ -18,7 +18,6 @@ import java.util.stream.Stream;
  * @see #configurators() 方法实现中，
  * 返回即可
  *
- * Created by xiaoyao9184 on 2018/1/9.
  */
 public abstract class MultipleConfiguratorAdapter
         implements Configurator {

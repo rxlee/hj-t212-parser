@@ -10,7 +10,6 @@ import java.io.IOException;
 import java.io.Writer;
 
 /**
- * Created by xiaoyao9184 on 2018/2/24.
  */
 public class T212Generator
         implements Configured<T212Generator>, Closeable {

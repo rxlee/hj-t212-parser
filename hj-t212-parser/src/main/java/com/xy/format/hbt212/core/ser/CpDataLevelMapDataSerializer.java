@@ -19,7 +19,6 @@ import static com.xy.format.hbt212.core.feature.VerifyFeature.DATA_LEN_RANGE;
 
 /**
  * 数据区 级别 序列化器
- * Created by xiaoyao9184 on 2017/12/15.
  */
 public class CpDataLevelMapDataSerializer
         implements T212Serializer<Map<String,Object>>, Configured<CpDataLevelMapDataSerializer> {

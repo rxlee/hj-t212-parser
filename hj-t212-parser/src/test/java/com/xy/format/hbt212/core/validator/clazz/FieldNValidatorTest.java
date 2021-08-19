@@ -15,9 +15,6 @@ import java.util.Set;
 
 import static org.junit.Assert.assertEquals;
 
-/**
- * Created by xiaoyao9184 on 2018/1/12.
- */
 public class FieldNValidatorTest {
 
     public Map<String,String> map;

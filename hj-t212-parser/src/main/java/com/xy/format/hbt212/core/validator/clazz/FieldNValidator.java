@@ -7,7 +7,6 @@ import com.xy.format.hbt212.model.expand.T212Map;
 import javax.validation.ConstraintValidator;
 
 /**
- * Created by xiaoyao9184 on 2018/1/10.
  */
 public class FieldNValidator
         extends FieldRegexSupportedValidator<FieldN,N>

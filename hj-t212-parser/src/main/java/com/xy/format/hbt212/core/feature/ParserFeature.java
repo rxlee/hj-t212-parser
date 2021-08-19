@@ -4,7 +4,6 @@ import com.xy.format.segment.base.cfger.Feature;
 
 /**
  * 解析特性
- * Created by xiaoyao9184 on 2018/1/3.
  */
 public enum ParserFeature implements Feature {
 

@@ -8,7 +8,6 @@ import java.util.function.Predicate;
 import java.util.regex.Pattern;
 
 /**
- * Created by xiaoyao9184 on 2018/3/26.
  */
 public enum ProcessPollutionWater implements CodeMean, CodePattern, CodeMatch {
 

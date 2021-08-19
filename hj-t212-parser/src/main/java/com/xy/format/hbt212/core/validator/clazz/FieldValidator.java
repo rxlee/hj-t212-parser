@@ -15,7 +15,6 @@ import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 /**
- * Created by xiaoyao9184 on 2018/1/10.
  */
 public abstract class FieldValidator<A extends Annotation,V,AF extends Annotation,FV>
         implements ConstraintValidator<A, V> {

@@ -9,7 +9,7 @@ import javax.json.bind.annotation.JsonbProperty;
 
 /**
  * 现场端
- * Created by xiaoyao9184 on 2018/1/11.
+ *
  */
 public class LiveSide {
 

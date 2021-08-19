@@ -7,7 +7,6 @@ import java.util.List;
  * 验证组 交集
  *
  * 无法使用group sequence解决 https://stackoverflow.com/questions/9741092/jsr-bean-validation-and-multiple-groups-and-vs-or
- * Created by xiaoyao9184 on 2020/11/25.
  */
 public interface Intersect {
 

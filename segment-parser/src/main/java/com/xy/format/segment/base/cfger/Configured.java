@@ -1,8 +1,5 @@
 package com.xy.format.segment.base.cfger;
 
-/**
- * Created by xiaoyao9184 on 2018/1/9.
- */
 public interface Configured<Target> {
 
     /**

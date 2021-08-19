@@ -4,7 +4,6 @@ import com.xy.format.segment.base.cfger.Feature;
 
 /**
  * 生成特性
- * Created by xiaoyao9184 on 2018/2/24.
  */
 public enum GeneratorFeature implements Feature {
 

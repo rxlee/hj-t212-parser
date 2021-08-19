@@ -13,9 +13,6 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNull;
 import static org.junit.Assert.assertTrue;
 
-/**
- * Created by xiaoyao9184 on 2018/1/25.
- */
 public class CpDataDeserializationMixinTest {
 
     @Test

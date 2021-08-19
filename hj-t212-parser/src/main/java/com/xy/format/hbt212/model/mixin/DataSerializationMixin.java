@@ -11,7 +11,7 @@ import java.util.List;
  * 混合
  * 序列化
  * @see Data 时使用
- * Created by xiaoyao9184 on 2017/12/19.
+ *
  */
 public abstract class DataSerializationMixin {
 

@@ -11,9 +11,6 @@ import java.util.Map;
 
 import static org.junit.Assert.assertEquals;
 
-/**
- * Created by xiaoyao9184 on 2018/2/24.
- */
 public class StringMapSegmentSerializerTest {
 
     @Test

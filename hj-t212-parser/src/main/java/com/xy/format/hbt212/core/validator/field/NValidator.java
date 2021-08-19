@@ -6,9 +6,6 @@ import java.math.BigDecimal;
 import java.text.DecimalFormat;
 import java.text.ParseException;
 
-/**
- * Created by xiaoyao9184 on 2018/1/10.
- */
 public class NValidator implements ConstraintValidator<N, String> {
 
     private int int_len_max;

@@ -2,7 +2,7 @@ package com.xy.format.hbt212.model.standard;
 
 /**
  * 通信包
- * Created by xiaoyao9184 on 2017/12/15.
+ *
  */
 public class Pack {
 

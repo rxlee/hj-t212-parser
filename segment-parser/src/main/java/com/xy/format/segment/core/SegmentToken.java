@@ -2,9 +2,6 @@ package com.xy.format.segment.core;
 
 import java.util.Arrays;
 
-/**
- * Created by xiaoyao9184 on 2018/1/4.
- */
 public enum SegmentToken {
 
     NOT_AVAILABLE(-1),

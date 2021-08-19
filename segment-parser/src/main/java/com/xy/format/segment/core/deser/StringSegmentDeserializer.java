@@ -7,7 +7,7 @@ import com.xy.format.segment.core.SegmentToken;
 import java.io.IOException;
 
 /**
- * Created by xiaoyao9184 on 2017/12/15.
+ *
  */
 public class StringSegmentDeserializer
         implements SegmentDeserializer<String> {

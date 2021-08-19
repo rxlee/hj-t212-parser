@@ -10,7 +10,6 @@ import java.util.regex.Pattern;
 /**
  * 命令类别
  * 6.6.5.1 类别划分
- * Created by xiaoyao9184 on 2017/12/30.
  */
 public enum CommandType implements CodeMean, CodePattern, CodeMatch {
 

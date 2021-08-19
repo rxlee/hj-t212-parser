@@ -16,7 +16,6 @@ import static com.xy.format.hbt212.core.feature.VerifyFeature.DATA_LEN_RANGE;
 
 /**
  * 通信包 级别 反序列化器
- * Created by xiaoyao9184 on 2018/2/24.
  */
 public class PackLevelSerializer
         implements T212Serializer<Pack>, Configured<PackLevelSerializer> {

@@ -7,7 +7,6 @@ import java.io.IOException;
 
 /**
  * T212反序列化器
- * Created by xiaoyao9184 on 2018/1/4.
  */
 public interface T212Deserializer<Target> {
 

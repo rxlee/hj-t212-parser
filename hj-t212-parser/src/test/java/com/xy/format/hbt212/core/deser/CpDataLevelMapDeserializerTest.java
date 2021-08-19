@@ -20,7 +20,7 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
 /**
- * Created by xiaoyao9184 on 2018/1/11.
+ *
  */
 public class CpDataLevelMapDeserializerTest {
 

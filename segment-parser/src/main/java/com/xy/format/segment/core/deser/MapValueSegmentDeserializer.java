@@ -6,9 +6,6 @@ import com.xy.format.segment.exception.SegmentFormatException;
 
 import java.io.IOException;
 
-/**
- * Created by xiaoyao9184 on 2017/12/15.
- */
 public class MapValueSegmentDeserializer
         implements SegmentDeserializer<Object> {
 

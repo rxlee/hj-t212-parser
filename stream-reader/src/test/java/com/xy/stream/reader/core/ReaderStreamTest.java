@@ -13,9 +13,6 @@ import java.util.Optional;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by xiaoyao9184 on 2018/1/5.
- */
 public class ReaderStreamTest {
 
 

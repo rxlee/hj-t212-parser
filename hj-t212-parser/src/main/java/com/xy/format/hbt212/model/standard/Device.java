@@ -11,7 +11,7 @@ import java.math.BigDecimal;
 
 /**
  * 污染治理设施
- * Created by xiaoyao9184 on 2018/1/11.
+ *
  */
 public class Device {
 

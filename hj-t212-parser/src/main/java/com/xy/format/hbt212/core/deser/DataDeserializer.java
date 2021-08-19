@@ -30,7 +30,6 @@ import static com.xy.format.hbt212.core.validator.clazz.FieldValidator.create_fo
 
 /**
  * 对象 级别 反序列化器
- * Created by xiaoyao9184 on 2017/12/15.
  */
 public class DataDeserializer
         implements T212Deserializer<Data>, Configured<DataDeserializer> {

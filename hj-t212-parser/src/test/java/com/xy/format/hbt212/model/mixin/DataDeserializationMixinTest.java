@@ -10,9 +10,6 @@ import java.util.Map;
 import static com.fasterxml.jackson.databind.DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES;
 import static org.junit.Assert.assertNull;
 
-/**
- * Created by xiaoyao9184 on 2018/1/25.
- */
 public class DataDeserializationMixinTest {
 
     @Test

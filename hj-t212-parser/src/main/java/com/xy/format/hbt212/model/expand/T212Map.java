@@ -8,7 +8,6 @@ import java.util.Set;
 /**
  * T212 Map
  * 可扩展字段的T212对象
- * Created by xiaoyao9184 on 2018/1/10.
  */
 public abstract class T212Map<K,V>
         implements Map<K,V>, Serializable {

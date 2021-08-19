@@ -14,7 +14,7 @@ import java.math.BigDecimal;
 
 /**
  * 污染因子
- * Created by xiaoyao9184 on 2017/12/15.
+ *
  */
 public class Pollution {
 

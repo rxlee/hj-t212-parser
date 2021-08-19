@@ -5,9 +5,6 @@ import com.xy.format.segment.exception.SegmentFormatException;
 
 import java.io.IOException;
 
-/**
- * Created by xiaoyao9184 on 2018/1/4.
- */
 public interface SegmentDeserializer<Target> {
 
     Target deserialize(SegmentParser parser) throws IOException, SegmentFormatException;

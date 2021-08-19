@@ -7,7 +7,6 @@ import java.util.Map;
 import java.util.Objects;
 
 /**
- * Created by xiaoyao9184 on 2017/12/15.
  */
 public class VerifyUtil {
 

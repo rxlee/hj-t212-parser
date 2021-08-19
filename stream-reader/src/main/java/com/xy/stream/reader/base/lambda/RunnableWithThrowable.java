@@ -1,8 +1,5 @@
 package com.xy.stream.reader.base.lambda;
 
-/**
- * Created by xiaoyao9184 on 2018/1/5.
- */
 @FunctionalInterface
 public interface RunnableWithThrowable<T extends Throwable> {
     /**

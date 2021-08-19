@@ -5,7 +5,6 @@ import java.io.Reader;
 
 /**
  * 字符流解析器
- * Created by xiaoyao9184 on 2018/1/3.
  */
 public abstract class ReaderParser<Target>
         implements Parser<Target> {

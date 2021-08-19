@@ -4,7 +4,6 @@ import com.xy.format.hbt212.CodeMean;
 
 /**
  * 执行结果定义（可扩充）
- * Created by xiaoyao9184 on 2017/12/30.
  */
 public enum ExecutionResult implements CodeMean {
 

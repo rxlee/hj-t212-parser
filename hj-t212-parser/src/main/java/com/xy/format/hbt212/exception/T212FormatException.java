@@ -3,9 +3,6 @@ package com.xy.format.hbt212.exception;
 import com.xy.format.hbt212.model.element.PacketElement;
 import com.xy.format.segment.exception.SegmentFormatException;
 
-/**
- * Created by xiaoyao9184 on 2017/12/19.
- */
 public class T212FormatException extends Exception {
 
     private Object result;

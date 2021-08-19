@@ -13,7 +13,7 @@ import java.util.Map;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by xiaoyao9184 on 2018/2/25.
+ *
  */
 public class MapSegmentSerializerTest {
 

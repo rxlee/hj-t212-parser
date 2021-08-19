@@ -2,7 +2,6 @@ package com.xy.format.hbt212.model.verify.groups;
 
 /**
  * 常用类型 验证组
- * Created by xiaoyao9184 on 2018/1/10.
  */
 public interface GroupCommon {
     interface N1{}

@@ -2,9 +2,6 @@ package com.xy.format.segment.core.feature;
 
 import com.xy.format.segment.base.cfger.Feature;
 
-/**
- * Created by xiaoyao9184 on 2018/1/3.
- */
 public enum SegmentParserFeature implements Feature {
 
     /**

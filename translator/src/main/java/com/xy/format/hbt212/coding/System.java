@@ -4,7 +4,6 @@ import com.xy.format.hbt212.CodeMean;
 
 /**
  * 6.6.1.2 系统编码方法
- * Created by xiaoyao9184 on 2017/12/30.
  */
 public enum System implements CodeMean {
 

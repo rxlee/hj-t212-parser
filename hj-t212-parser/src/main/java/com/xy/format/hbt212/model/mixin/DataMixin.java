@@ -10,7 +10,6 @@ import java.util.List;
  * 混合
  * 解决Map转为
  * @see Data 时剔除的字段
- * Created by xiaoyao9184 on 2017/12/19.
  */
 @Deprecated
 public abstract class DataMixin {

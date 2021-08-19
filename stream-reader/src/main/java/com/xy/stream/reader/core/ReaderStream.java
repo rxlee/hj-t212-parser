@@ -8,9 +8,6 @@ import java.nio.CharBuffer;
 import java.util.Optional;
 import java.util.function.Consumer;
 
-/**
- * Created by xiaoyao9184 on 2018/1/5.
- */
 public class ReaderStream<ParentMatch extends ReaderMatch> {
 
     private PushbackReader reader;

@@ -3,7 +3,7 @@ package com.xy.format.hbt212.coding;
 import com.xy.format.hbt212.CodeMean;
 
 /**
- * Created by xiaoyao9184 on 2018/3/26.
+ *
  */
 public enum LiveSideMessageType implements CodeMean {
 

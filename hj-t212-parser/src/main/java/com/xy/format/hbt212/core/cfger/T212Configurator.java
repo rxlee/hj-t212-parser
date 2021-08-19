@@ -31,7 +31,6 @@ import static com.fasterxml.jackson.databind.DeserializationFeature.FAIL_ON_UNKN
 
 /**
  * T212配置器
- * Created by xiaoyao9184 on 2018/1/9.
  */
 public class T212Configurator
         extends MultipleConfiguratorAdapter {

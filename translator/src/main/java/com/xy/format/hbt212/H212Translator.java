@@ -9,9 +9,6 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-/**
- * Created by xiaoyao9184 on 2017/12/30.
- */
 public enum H212Translator {
     I;
 

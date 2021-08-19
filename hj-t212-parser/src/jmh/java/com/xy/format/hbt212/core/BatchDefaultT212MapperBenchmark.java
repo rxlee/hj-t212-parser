@@ -19,9 +19,6 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-/**
- * Created by xiaoyao9184 on 2018/1/12.
- */
 @BenchmarkMode(Mode.Throughput)
 @OutputTimeUnit(TimeUnit.HOURS)
 @Warmup(iterations = 5, time = 3, timeUnit = TimeUnit.HOURS)

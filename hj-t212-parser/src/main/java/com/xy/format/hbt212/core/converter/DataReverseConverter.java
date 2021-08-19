@@ -16,7 +16,6 @@ import java.util.stream.Collectors;
  * 将
  * @see Data
  * 转为T212Map
- * Created by xiaoyao9184 on 2018/2/25.
  */
 public class DataReverseConverter
         implements Converter<Data,T212Map<String,Object>>,

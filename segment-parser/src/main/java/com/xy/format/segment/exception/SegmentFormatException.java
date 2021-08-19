@@ -1,8 +1,5 @@
 package com.xy.format.segment.exception;
 
-/**
- * Created by xiaoyao9184 on 2017/12/19.
- */
 public class SegmentFormatException extends Exception {
 
     public SegmentFormatException(String message) {
