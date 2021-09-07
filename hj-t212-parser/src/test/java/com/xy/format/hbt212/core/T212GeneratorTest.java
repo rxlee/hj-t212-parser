@@ -1,10 +1,17 @@
 package com.xy.format.hbt212.core;
 
 import com.xy.format.hbt212.core.feature.GeneratorFeature;
+import com.xy.format.hbt212.exception.T212FormatException;
+import com.xy.format.hbt212.model.standard.CpData;
+import com.xy.format.hbt212.model.standard.Data;
+import com.xy.format.hbt212.model.standard.DataFlag;
 import com.xy.format.segment.base.cfger.Feature;
 import org.junit.Test;
 
+import java.io.IOException;
 import java.io.StringWriter;
+import java.util.ArrayList;
+import java.util.List;
 
 import static org.junit.Assert.assertEquals;
 
@@ -12,6 +19,32 @@ import static org.junit.Assert.assertEquals;
  *
  */
 public class T212GeneratorTest {
+
+    @Test
+    public void flag(){
+        Data resp = new Data();
+        List<DataFlag> FLAG_NOT_WAIT_RESPONSE=new ArrayList<>();
+        FLAG_NOT_WAIT_RESPONSE.add(DataFlag.V0);
+        resp.setDataFlag(FLAG_NOT_WAIT_RESPONSE);
+        resp.setQn("20210907145012163");
+        resp.setSt("91");
+        resp.setCn("9014");
+        resp.setPw("123456");
+        resp.setMn("ZG130127201709");
+        resp.setCp(new CpData());
+
+        T212Mapper mapper = new T212Mapper()
+                .enableDefaultVerifyFeatures()
+                .enableDefaultParserFeatures();
+        try {
+            String s = mapper.writeDataAsString(resp);
+            System.out.println(s);
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (T212FormatException e) {
+            e.printStackTrace();
+        }
+    }
 
     @Test
     public void generate() {

@@ -160,6 +160,8 @@ public class DataReverseConverter
 
         if(data.getCp() != null){
             Map<String,Object> cpMap = convertDataLevel(data.getCp());
+            //将Flag置于CP之之前
+            map.remove(Data.CP);
             map.put(Data.CP,cpMap);
         }
 
