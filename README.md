@@ -23,8 +23,6 @@
 
 # 使用
 
-通过gradle引入托管在jitpack上的jar包
-
 ```maven
 		<dependency>
 			<groupId>com.github.xiaoyao9184</groupId>
