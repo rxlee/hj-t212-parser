@@ -35,6 +35,11 @@
 			<artifactId>hj-t212-translator</artifactId>
 			<version>0.1-SNAPSHOT</version>
 		</dependency>
+		<dependency>
+			<groupId>org.hibernate.validator</groupId>
+			<artifactId>hibernate-validator</artifactId>
+			<version>6.0.2.Final</version>
+		</dependency>
 ```
 
 通过创建`T212Mapper`对象，获得读取、写入T212信息的功能
